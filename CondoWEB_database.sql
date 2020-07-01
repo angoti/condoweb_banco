@@ -1,19 +1,3 @@
-/*
- Navicat Premium Data Transfer
-
- Source Server         : MariaDB_Quality
- Source Server Type    : MariaDB
- Source Server Version : 100144
- Source Host           : www.qualitysys.com.br:3300
- Source Schema         : condoweb
-
- Target Server Type    : MariaDB
- Target Server Version : 100144
- File Encoding         : 65001
-
- Date: 01/07/2020 19:32:29
-*/
-
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
